@@ -1,0 +1,65 @@
+.page-header{
+	margin-bottom: 90px;
+}
+
+.page-header h1{
+	color: #6f6c6c;
+}
+
+#Widgets{
+	float: right; 
+	width: 30%;
+}
+
+#Widgets ul li{
+	margin: 50px 0 50px 0;
+}
+
+#search-4 form{
+	width: 100%;
+}
+
+#search-4 form label input[type="search"]{
+	width: 78%;
+	height: 25px;
+}
+
+#search-4 form input[type="submit"]{
+	width: 18%;
+	height: 35px;
+	background-color: rgb(50, 115, 220);
+	font-size: 0;
+}
+
+#archives-4 h2{
+  font-size: 18px;
+  color: #ddd;
+  margin-bottom: 10px;
+}
+
+#archives-4 ul li{
+  border-bottom: 1px solid #444;
+  border-top: 1px solid #444;
+  font-size: 90%;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin: 0px;
+}
+
+.divArticle{
+	float: left; 
+	width: 70%;
+}
+
+article{
+    padding: 30px 0 30px 0;
+}
+
+@media screen and (max-width: 55em) {
+	#Widgets{
+		display: none;
+	}
+	.divArticle{
+		width: 100%;
+	}
+}

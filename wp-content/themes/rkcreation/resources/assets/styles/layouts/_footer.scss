@@ -1,0 +1,37 @@
+
+footer{
+  border-top: 1px solid #444;
+  height: 300px;
+  background-color: #333;
+}
+
+footer a{
+  color: #e2e2e2;
+}
+
+footer .widget{
+  width: 30%;
+  padding: 40px;
+}
+
+footer .widget h3{
+  font-size: 18px;
+  color: #ddd;
+  margin-bottom: 10px;
+}
+
+footer .widget ul li{
+  border-bottom: 1px solid #444;
+  border-top: 1px solid #444;
+  font-size: 90%;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+footer .widget:first-child{
+  float: left;
+}
+
+footer .widget:last-child{
+  float: right;
+}

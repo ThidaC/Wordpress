@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-22 10:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: inc/post-types.php:7
+msgctxt "male"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:8 inc/post-types.php:25
+msgctxt "female"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types.php:26 inc/post-types.php:73
+#, php-format
+msgctxt "female"
+msgid "Add New %s"
+msgstr ""
+
+#: inc/post-types.php:27 inc/post-types.php:71
+#, php-format
+msgctxt "female"
+msgid "Edit %s"
+msgstr ""
+
+#: inc/post-types.php:28
+#, php-format
+msgctxt "female"
+msgid "New %s"
+msgstr ""
+
+#: inc/post-types.php:29
+#, php-format
+msgctxt "female"
+msgid "View %s"
+msgstr ""
+
+#: inc/post-types.php:30 inc/post-types.php:66
+#, php-format
+msgctxt "female"
+msgid "Search %s"
+msgstr ""
+
+#: inc/post-types.php:31
+#, php-format
+msgctxt "female"
+msgid "No %s found"
+msgstr ""
+
+#: inc/post-types.php:32
+#, php-format
+msgctxt "female"
+msgid "No %s found in Trash"
+msgstr ""
+
+#: inc/post-types.php:67
+#, php-format
+msgctxt "female"
+msgid "Common %s"
+msgstr ""
+
+#: inc/post-types.php:68
+#, php-format
+msgctxt "female"
+msgid "All %s"
+msgstr ""
+
+#: inc/post-types.php:72
+#, php-format
+msgctxt "female"
+msgid "Update %s"
+msgstr ""
+
+#: inc/post-types.php:74
+#, php-format
+msgctxt "female"
+msgid "New %s Name"
+msgstr ""
+
+#: inc/post-types.php:75
+#, php-format
+msgctxt "female"
+msgid "Separate %s with commas"
+msgstr ""
+
+#: inc/post-types.php:76
+#, php-format
+msgctxt "female"
+msgid "Add or remove %s"
+msgstr ""
+
+#: inc/post-types.php:77
+#, php-format
+msgctxt "female"
+msgid "Choose from the most used %s"
+msgstr ""
+
+#. Name of the plugin
+msgid "Bapla Web - Fonctions communes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Authentification sur les sites non publics, languages, helpers..."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.rkcreation.fr/"
+msgstr ""
+
+#. Author of the plugin
+msgid "RK Creation"
+msgstr ""
+
+msgctxt "male"
+msgid "Add New %s"
+msgstr ""
+
+msgctxt "male"
+msgid "Edit %s"
+msgstr ""
+
+msgctxt "male"
+msgid "New %s"
+msgstr ""
+
+msgctxt "male"
+msgid "View %s"
+msgstr ""
+
+msgctxt "male"
+msgid "Search %s"
+msgstr ""
+
+msgctxt "male"
+msgid "No %s found"
+msgstr ""
+
+msgctxt "male"
+msgid "No %s found in Trash"
+msgstr ""
+
+msgctxt "male"
+msgid "Common %s"
+msgstr ""
+
+msgctxt "male"
+msgid "All %s"
+msgstr ""
+
+msgctxt "male"
+msgid "Update %s"
+msgstr ""
+
+msgctxt "male"
+msgid "Separate %s with commas"
+msgstr ""
+
+msgctxt "male"
+msgid "Add or remove %s"
+msgstr ""
+
+msgctxt "male"
+msgid "Choose from the most used %s"
+msgstr ""

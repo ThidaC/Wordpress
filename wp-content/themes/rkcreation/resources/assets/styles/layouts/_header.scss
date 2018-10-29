@@ -1,0 +1,36 @@
+.banner .nav li {
+  @extend .nav-item;
+}
+
+.banner {
+	background-color: #333;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+	body.admin-bar & {
+		top: 32px;
+	}
+}
+
+.banner .container{
+	background-color: #333;
+}
+
+.banner .container p{
+	margin: 10px 50px 0 50px;
+	font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.banner .nav-primary input[type="search"]{
+	width: 78%;
+	height: 25px;
+}
+
+.banner .nav-primary input[type="submit"]{
+	width: 18%;
+	height: 35px;
+	background-color: rgb(50, 115, 220);
+	font-size: 0;
+}
